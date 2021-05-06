@@ -1,0 +1,43 @@
+body {
+    background-color: darkturquoise;
+}
+
+p {
+    font-size: 30px;
+    color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: cornflowerblue;
+    border: solid blue;
+    padding: 9px;
+}
+
+a {
+    font-size: 35px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform: uppercase;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+.centar{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.slk{
+    background-image: url("slike/pozadina.jpg");
+    height: 80px;
+    color: bisque;
+}
